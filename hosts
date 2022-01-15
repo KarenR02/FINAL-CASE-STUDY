@@ -1,0 +1,8 @@
+Makati          ansible_host=192.168.10.1
+Marikina        ansible_host=10.0.0.2
+Taguig          ansible_host=10.0.0.6
+
+[routers]
+Makati
+Marikina
+Taguig
